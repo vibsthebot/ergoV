@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PG1316")(type "KiCad")(uri "${KIPRJMOD}/library/PG1316S/PG1316.kicad_sym")(options "")(descr ""))
+)
