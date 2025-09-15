@@ -1,0 +1,10 @@
+# Ignore KiCad backup and user-specific files
+**/*-backups/
+**/*.kicad_prl
+**/fp-info-cache
+**/fp-lib-table
+
+# Ignore build and temp files
+*.tmp
+*.bak
+*.swp
